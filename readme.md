@@ -96,3 +96,8 @@ Micro-entreprise (ME) :
 + pas de déduction de frais. Tout le CA est imposable sur le revenu, après abattement de 34%. Ex : 100k€ de CA, on déclare 100k€ en IR, ils abattent automatiquement 34%, et donc on paie de l'IR sur 66k€.
 + Exemple de revenus net pour 100k € de CA (sans compter les frais donc, puisque non déductibles) : 78 000 € net avant impôts, pour une personne seule : 14 093€ d'IR, soit 63 907€ net d'impot, soit 5 325€ / mois.
 + on peut déduire la TVA de ses achats pour réduire la TVA à reverser. Ca fonctionne sur repas, comptable, achat de PC/téléphone/fournitures/... mais pas sur les transports (avion/train/métro/bus/tram/...) ni les vêtements
+
+### ARCE :
++ 2 versements espacés de 6 mois (si attestation sur l'honneur que l'entreprise existe toujours 6 mois après le 1er versement)
++ correspond à environ 43% des droits chomage totaux. Ex: si 730 jours à 65€/j : 20 403 € en 2 versements au lieu de 47 450€ en 24 versements mensuels
++ process : inscription Pôle Emploi, création entreprise en demandant ACCRE lors création, demande ARCE à PE avec papier acceptation ACCRE par URSSAF
